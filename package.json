@@ -1,9 +1,9 @@
 {
-  "name": "tpl-express",
+  "name": "fipebot",
   "version": "1.0.0",
-  "description": "",
-  "license": "ISC",
-  "author": "Express API bootstrap template.",
+  "description": "Chatbot for querying prices of vehicles sold in Brazil based on the FIPE table.",
+  "license": "MIT",
+  "author": "Henrique",
   "type": "module",
   "main": "dist/index.js",
   "engines": {
